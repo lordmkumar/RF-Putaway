@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">RF Putaway-ver2</langstring>
+          <langstring xml:lang="x-none">RF Putaway-ver3</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="RF_Putaway-ver2_ORG">
-    <organization identifier="RF_Putaway-ver2_ORG">
-      <title>RF Putaway-ver2</title>
+  <organizations default="RF_Putaway-ver3_ORG">
+    <organization identifier="RF_Putaway-ver3_ORG">
+      <title>RF Putaway-ver3</title>
       <item identifier="RF_Putaway_SCO" isvisible="true" identifierref="__6VROLidT3g2_RES">
-        <title>RF Putaway-ver2</title>
+        <title>RF Putaway-ver3</title>
       </item>
     </organization>
   </organizations>
