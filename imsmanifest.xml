@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">RF Putaway</langstring>
+          <langstring xml:lang="x-none">RF Putaway-ver2</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="RF_Putaway_ORG">
-    <organization identifier="RF_Putaway_ORG">
-      <title>RF Putaway</title>
+  <organizations default="RF_Putaway-ver2_ORG">
+    <organization identifier="RF_Putaway-ver2_ORG">
+      <title>RF Putaway-ver2</title>
       <item identifier="RF_Putaway_SCO" isvisible="true" identifierref="__6VROLidT3g2_RES">
-        <title>RF Putaway</title>
+        <title>RF Putaway-ver2</title>
       </item>
     </organization>
   </organizations>
@@ -62,6 +62,9 @@
     <resource identifier="__6VROLidT3g2_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5qjGHCNi0xE_P_211_0_368_800.png" />
+      <file href="mobile/66WdF870q3o.png" />
+      <file href="mobile/6mClUlXX7kM.png" />
+      <file href="mobile/6NhYcPNRAbI_P_169_380_1565_519.png" />
       <file href="mobile/6AYETkIrbhn_P_269_118_253_397.png" />
       <file href="mobile/6qa6t7HFEcP_P_275_120_247_397.png" />
       <file href="meta.xml" />
